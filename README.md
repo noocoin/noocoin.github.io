@@ -1,4 +1,4 @@
-noocoin.github.io
+Иoocoin
 =================
 
 Join the Revolution!
